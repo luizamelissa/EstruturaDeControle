@@ -8,7 +8,7 @@ As estruturas de controle atuam como o "cérebro" do programa, determinando a or
 
 ## 🚦 I. Controle de Fluxo (Decisão)
 
-Permitem que o programa execute blocos de código diferentes com base em condições[cite: 109, 112].
+Permitem que o programa execute blocos de código diferentes com base em condições.
 
 | Estrutura | Uso Principal | Palavras-chave |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ Permitem que o programa execute blocos de código diferentes com base em condiç
 
 ## 🔄 II. Controle de Fluxo (Repetição / Loops)
 
-[cite_start]Usadas para executar o mesmo bloco de código repetidamente[cite: 161].
+Usadas para executar o mesmo bloco de código repetidamente.
 
 | Estrutura | Característica | Condição | Uso Principal |
 | :--- | :--- | :--- | :--- |
