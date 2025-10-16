@@ -33,18 +33,3 @@ Permitem que o programa execute blocos de código diferentes com base em condiç
 | :--- | :--- |
 | **`break`** | [cite_start]Interrompe completamente a execução do laço[cite: 202]. |
 | **`continue`** | [cite_start]Pula a iteração atual e vai para a próxima volta do laço[cite: 203]. |
-
----
-
-## 🎯 III. Exercícios Focados em Estruturas
-
-[cite_start]Abaixo, exercícios que aplicam intensivamente as estruturas de controle[cite: 1].
-
-| Exercício | Descrição | Foco Estrutural |
-| :--- | :--- | :--- |
-| **Ex. 2** | Cálculo de lucro de teatro: tabela e lucro máximo. | [cite_start]Repetição (`for`/`while`) e Decisão (`if`)[cite: 4, 7]. |
-| **Ex. 5** | Mostrar a tabuada dos números de 1 a 10. | [cite_start]Repetição aninhada (Laço dentro de Laço)[cite: 24]. |
-| **Ex. 6** | Quinze transações 'V' (à vista) ou 'P' (a prazo). | [cite_start]Repetição (`for`), Decisão (`if` ou `switch`)[cite: 26, 27]. |
-| **Ex. 12** | Contar números primos entre dez números inteiros. | [cite_start]Repetição (`for` ou `while`), Decisão, e Estrutura de Validação de Primo[cite: 61, 62]. |
-| **Ex. 20** | Criar um Menu com opções para Média Aritmética e Ponderada. | [cite_start]Decisão (`switch` ou `if/else`) e Repetição (para manter o menu ativo)[cite: 90]. |
-| **Ex. 24** | Receber valores, mostrar o maior e o menor. Encerra com `0`. | [cite_start]Repetição (`while` com condição de parada) e Decisão (`if`) para atualização de máximo/mínimo[cite: 98]. |
